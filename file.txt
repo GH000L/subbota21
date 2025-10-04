@@ -1,1 +1,5 @@
-secret kod 228
+[33mcommit 25aedabf09e9bbf4212eaf57be47c48eae74f4ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: islam shaikhutdinov <sajhutdinovi607@gmail.com>
+Date:   Sat Oct 4 13:18:50 2025 +0300
+
+    initial project
